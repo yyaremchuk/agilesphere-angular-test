@@ -1,8 +1,8 @@
-# AgileSphere test
+# Angular 6 + NgRx demo app
 
 Using the Free open weather map api (http://openweathermap.org/forecast5 api key has been included inside weather.service.ts)
 
-  * Build an application that allows you to search the weather forecast for a city. 
+  * Build an application that allows you to search the weather forecast for a city.
   * Every time a new city is searched - Add to a table of cities displaying the next 24 hours weather forecast.
   * Build the application using ng-rx
 
